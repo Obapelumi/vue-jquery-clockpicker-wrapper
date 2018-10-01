@@ -19,4 +19,4 @@ Vue.component('clock-picker',{
             .trigger('change');
         }
     }
-})
+});
